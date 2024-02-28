@@ -4,9 +4,11 @@
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/version.json
 /home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/indexer/Development/flutter/timer/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
